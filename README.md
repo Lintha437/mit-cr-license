@@ -22,7 +22,7 @@ For commercial use, MIT-CR does not prohibit such activities outright but differ
 
 ```
 The MIT License - Commercial Restriction (MIT-CR)
-Version 1.2
+Version 2.0
 
 1. Copyright Notice
 Copyright (C) <year> <copyright holder(s)>
